@@ -4,7 +4,7 @@
 define("APP_CLEAN_DAYS", 30);
 
 /* Database connection values */
-define("DB_HOST", "localhost");
+define("DB_HOST", "your_hostname");
 define("DB", "you_db_name");
 define("DB_USER", "your_db_user");
 define("DB_PASS", "your_db_pwd");
