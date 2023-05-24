@@ -4,6 +4,6 @@
 <p>For it to work correctly you only need to copy it to your server, enter the correct data in the ".config" file and the data of your email account in "Controller.php" in case you want to use PHP mailer. Once you've don this just create a cron job to run the script when you want.</p>
 <p>These are the files you have to modify:</p>
 <img src="./config.png" alt="config.php">
-<img src="./config.png" alt="controller.php">
+<img src="./controller.png" alt="controller.php">
 <p>Files will be saved in "data" directory</p>
 <p>Any questions you can contact me through github or at agustin.ferreiroa@afgdev.es.</p>
